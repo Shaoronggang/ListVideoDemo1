@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_black_a10_selector.xml",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\drawable\\bg_black_a10_selector.xml"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_video_bar_bg.9.png",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\drawable\\biz_video_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_video_progressbar.xml",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\drawable\\biz_video_progressbar.xml"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]

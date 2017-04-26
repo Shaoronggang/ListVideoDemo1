@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\super_video_media_controller.xml",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\layout\\super_video_media_controller.xml"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_full.xml",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\layout\\activity_full.xml"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_video_item.xml",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\layout\\list_video_item.xml"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\super_video_view.xml",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\layout\\super_video_view.xml"
+    }
+]

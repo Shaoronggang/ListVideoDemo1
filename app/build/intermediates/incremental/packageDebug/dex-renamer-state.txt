@@ -1,0 +1,7 @@
+#Fri Jan 06 18:24:57 CST 2017
+base.0=E\:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4eb0b5fafb3dd30deb5aa13245a66450f208aa42
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_daa0f8373fd5863eed5a80ccdd84c249c4512619\\classes.dex
+base.1=E\:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_daa0f8373fd5863eed5a80ccdd84c249c4512619
+file.0=E\:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4eb0b5fafb3dd30deb5aa13245a66450f208aa42\\classes.dex

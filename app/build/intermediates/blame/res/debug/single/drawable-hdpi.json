@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_cion.png",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\drawable-hdpi\\share_cion.png"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\praise.png",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\drawable-hdpi\\praise.png"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\biz_video_progress_thumb.png",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\drawable-hdpi\\biz_video_progress_thumb.png"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\time.png",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\drawable-hdpi\\time.png"
+    },
+    {
+        "merged": "E:\\WorkCode\\ListVideoDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\newplay.png",
+        "source": "E:\\WorkCode\\ListVideoDemo1\\app\\src\\main\\res\\drawable-hdpi\\newplay.png"
+    }
+]
